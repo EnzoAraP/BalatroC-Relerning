@@ -1,2 +1,2 @@
-# BalatroC-Relerning
-I am going to try to make a Baltro a like pseudo game so i can relearn C++,java and html+
+# Balatro C++ Relerning
+I am going to try to make a Balatro look a like in C++, just creating the repository, not gonna do it right now 
